@@ -1,0 +1,18 @@
+[2013-06-03 14:53:35][5936][1157][ERROR][SQL Error: Unknown database 'social' at Z:\home\livestreet\www\engine\modules\database\Database.class.php line 72<br>
+Array
+(
+    [code] => 1049
+    [message] => Unknown database 'social'
+    [query] => mysql_select_db()
+    [context] => Z:\home\livestreet\www\engine\modules\database\Database.class.php line 72
+)
+]
+[2013-06-03 15:03:29][5936][5567][ERROR][SQL Error: Unknown database 'social' at Z:\home\livestreet\www\engine\modules\database\Database.class.php line 72<br>
+Array
+(
+    [code] => 1049
+    [message] => Unknown database 'social'
+    [query] => mysql_select_db()
+    [context] => Z:\home\livestreet\www\engine\modules\database\Database.class.php line 72
+)
+]
